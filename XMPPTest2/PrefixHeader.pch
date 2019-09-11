@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  XMPPTest2
+//
+//  Created by 李亚飞 on 2019/9/5.
+//  Copyright © 2019 xxxx. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import "XMPPFramework.h"
+#import "YFManagerStream.h"
+
+#endif /* PrefixHeader_pch */
